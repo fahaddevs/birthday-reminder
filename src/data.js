@@ -34,29 +34,5 @@ export default [
     name: 'Jhon Doe',
     age: 26,
     image: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=300'
-  },
-  {
-    id: 1,
-    name: 'Jhon Doe',
-    age: 26,
-    image: 'https://images.pexels.com/photos/598917/pexels-photo-598917.jpeg?auto=compress&cs=tinysrgb&w=300'
-  },
-  {
-    id: 1,
-    name: 'Jhon Doe',
-    age: 26,
-    image: 'https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=300'
-  },
-  {
-    id: 1,
-    name: 'Jhon Doe',
-    age: 26,
-    image: 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=300'
-  },
-  {
-    id: 1,
-    name: 'Jhon Doe',
-    age: 26,
-    image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=300'
   }
 ]

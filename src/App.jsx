@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App flex justify-center items-center h-screen">
       <div className='bg-slate-800 rounded-md shadow-md w-1/4 p-5 text-white'>
+        
         <h2 className='text-2xl mb-4 text-center'>Total Listed {people.length}</h2>
         <List people={people} />
 
