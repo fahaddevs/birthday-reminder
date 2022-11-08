@@ -1,4 +1,5 @@
 {
+  "homepage": "http://fahaddevs.github.io/birthday-reminder",
   "name": "birthday-reminder",
   "private": true,
   "version": "0.0.0",
@@ -17,6 +18,7 @@
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",
     "autoprefixer": "^10.4.13",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.2",
     "vite": "^3.2.3"
